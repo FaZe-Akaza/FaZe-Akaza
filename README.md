@@ -1,6 +1,5 @@
 ## Hello My name is Michael kamweru
-<h4>🌱  I'm currently learning...</h4>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
+
 
 
 
